@@ -1,0 +1,14 @@
+# Environment Directory
+pytorch_u/
+
+# We dont need .py file as well. 
+*.py
+
+# MacOs related files
+.DS_Store
+
+# Notebook related intermediate files
+.ipynb_checkpoints/
+
+# VS Code related cache file
+.vscode/
